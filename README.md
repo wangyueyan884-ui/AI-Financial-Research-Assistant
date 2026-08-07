@@ -73,7 +73,7 @@ AI generates:
 
 Figma Prototype:
 
-(Insert your Figma link here)
+see in prototype
 
 ---
 
